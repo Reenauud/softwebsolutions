@@ -1,5 +1,6 @@
 import "./TopBar.css";
 import logo from "../../images/logo/logo.png";
+import { Link } from "react-router";
 
 function TopBar() {
   return (
@@ -7,17 +8,11 @@ function TopBar() {
       <div className="ContainerLogo">
         <img className="Logo" src={logo} alt="Logo du site" />
       </div>
-      <div className="ContainerNav">
-        <div>
-          <h6>acceuil</h6>
-        </div>
-        <div>
-          <h6>nos offres</h6>
-        </div>
-        <div>
-          <h6>contactez nous</h6>
-        </div>
-      </div>
+          <nav className="ContainerNav">
+            <Link to={"/acceuil"} className="linkText"> Acceuil </Link>
+            <Link to={"/offres"} className="linkText"> Nos offres </Link>
+            <Link to={"/contact"} className="linkText"> Contactez-nous </Link>
+          </nav>
     </div>
   );
 }

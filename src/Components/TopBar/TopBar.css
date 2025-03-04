@@ -25,17 +25,21 @@
 
     }
 
-    .ContainerNav {
+    .ContainerNav
+    {
         background-color: transparent;
-        width: 95%;
+        width: 98%;
         display: flex;
         justify-content: space-between;
-        height: 7vh;
+        height: 5vh;
+        align-items: flex-end;
     }
 
-    .ContainerNav h6 {
+    .linkText{
+        text-decoration: none;
         color: white;
-
+        font-size: 12px;
+        font-family: 'Times New Roman', Times, serif;
     }
 
 }

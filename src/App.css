@@ -5,7 +5,7 @@
     display: flex;
     flex-direction: column;
     background: linear-gradient(#10AEEF, #0F0F0F);
-
+    font-family: 'Times New Roman', Times, serif;
   }
 }
 
