@@ -1,7 +1,6 @@
 import "./App.css";
 import TopBar from "./Components/TopBar/TopBar";
 import Acceuil from "./Views/Accueil/Acceuil";
-import Footer from "./Components/Footer/Footer";
 import { BrowserRouter, Routes, Route } from "react-router";
 import Contact from "./Views/Contact/Contact";
 import OffresView from "./Views/Offres/OffresView";
@@ -15,21 +14,13 @@ function App() {
 
       <BrowserRouter>
       <TopBar></TopBar>
-
-        {/* <App /> */}
         <Routes>
-          <Route path="/" element={<root />} />
-          <Route path="/acceuil" element={<Acceuil />} />
+          <Route path="/" element={<Acceuil />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/offres" element={<OffresView />} />
           <Route path="/offreWeb" element={<WebOffres />} />
           <Route path="/offreSoftware" element={<SoftwareOffres />} />
           <Route path="/mentionsLegales" element={<LegalNotice />} />
-
-
-
-
-
         </Routes>
       </BrowserRouter>
     </div>
