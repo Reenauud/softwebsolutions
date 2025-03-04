@@ -1,20 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.a8ba7014.css",
-    "main.js": "/static/js/main.4ec08b67.js",
+    "main.css": "/static/css/main.8ad3cded.css",
+    "main.js": "/static/js/main.f10e790b.js",
     "static/js/453.64512fd7.chunk.js": "/static/js/453.64512fd7.chunk.js",
+    "static/media/debug.jpg": "/static/media/debug.e5294401d91c0c6a1278.jpg",
+    "static/media/codeSource.jpg": "/static/media/codeSource.4db97628e480b235f853.jpg",
+    "static/media/reunion.jpg": "/static/media/reunion.662b3db19b9461adabda.jpg",
+    "static/media/deploiement.jpg": "/static/media/deploiement.6691cc738226c21aaec4.jpg",
     "static/media/web.jpg": "/static/media/web.6d6cb06346351eda6e05.jpg",
+    "static/media/prototype.jpg": "/static/media/prototype.7bd3e619db47a482a216.jpg",
+    "static/media/bdd.jpg": "/static/media/bdd.0fc9050f2e32038a6078.jpg",
+    "static/media/frontend.jpg": "/static/media/frontend.dab557c96657ee63dd1b.jpg",
+    "static/media/conception.jpg": "/static/media/conception.5cf6a9fb62d4819de78a.jpg",
     "static/media/laptop.jpg": "/static/media/laptop.cc6dcdf6ba3a406ce5ce.jpg",
+    "static/media/backend.jpg": "/static/media/backend.7c55a5a25f3a7dbe821f.jpg",
     "static/media/software-developer.jpg": "/static/media/software-developer.4b9c875a0709a071e59b.jpg",
     "static/media/contact.jpg": "/static/media/contact.2c2d4e33fc2220ed52af.jpg",
     "static/media/logo.png": "/static/media/logo.1f4124dbc1d6c6753dbc.png",
     "index.html": "/index.html",
-    "main.a8ba7014.css.map": "/static/css/main.a8ba7014.css.map",
-    "main.4ec08b67.js.map": "/static/js/main.4ec08b67.js.map",
+    "main.8ad3cded.css.map": "/static/css/main.8ad3cded.css.map",
+    "main.f10e790b.js.map": "/static/js/main.f10e790b.js.map",
     "453.64512fd7.chunk.js.map": "/static/js/453.64512fd7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8ba7014.css",
-    "static/js/main.4ec08b67.js"
+    "static/css/main.8ad3cded.css",
+    "static/js/main.f10e790b.js"
   ]
 }
