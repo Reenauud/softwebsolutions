@@ -9,7 +9,7 @@ function TopBar() {
         <img className="Logo" src={logo} alt="Logo du site" />
       </div>
           <nav className="ContainerNav">
-            <Link to={"/acceuil"} className="linkText"> Acceuil </Link>
+            <Link to={"/"} className="linkText"> Acceuil </Link>
             <Link to={"/offres"} className="linkText"> Nos offres </Link>
             <Link to={"/contact"} className="linkText"> Contactez-nous </Link>
           </nav>
