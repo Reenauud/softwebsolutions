@@ -1,6 +1,6 @@
 {
   "name": "myapp",
-  "homepage": "./build/index.html",
+  "homepage": "https://softwebsolutions.eu",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
