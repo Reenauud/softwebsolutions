@@ -12,7 +12,6 @@ function App() {
   return (
     <div className="App">
 
-      <BrowserRouter>
       <TopBar></TopBar>
         <Routes>
           <Route path="/" element={<Acceuil />} />
@@ -22,7 +21,6 @@ function App() {
           <Route path="/offreSoftware" element={<SoftwareOffres />} />
           <Route path="/mentionsLegales" element={<LegalNotice />} />
         </Routes>
-      </BrowserRouter>
     </div>
   );
 }
