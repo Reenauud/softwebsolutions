@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b91ff2f.css",
+    "main.css": "/static/css/main.18dde8c2.css",
     "main.js": "/static/js/main.dd8afc4c.js",
     "static/js/453.64512fd7.chunk.js": "/static/js/453.64512fd7.chunk.js",
     "static/media/debug.jpg": "/static/media/debug.e5294401d91c0c6a1278.jpg",
@@ -17,14 +17,14 @@
     "static/media/software-developer.jpg": "/static/media/software-developer.4b9c875a0709a071e59b.jpg",
     "static/media/contact.jpg": "/static/media/contact.2c2d4e33fc2220ed52af.jpg",
     "static/media/logo.png": "/static/media/logo.1f4124dbc1d6c6753dbc.png",
-    "static/media/GameBubble.ttf": "/static/media/GameBubble.eb94f7b663718b5d7ccc.ttf",
+    "static/media/Venus-BF651e78bbb893a.otf": "/static/media/Venus-BF651e78bbb893a.7582afc8daa31e9cb0ab.otf",
     "index.html": "/index.html",
-    "main.3b91ff2f.css.map": "/static/css/main.3b91ff2f.css.map",
+    "main.18dde8c2.css.map": "/static/css/main.18dde8c2.css.map",
     "main.dd8afc4c.js.map": "/static/js/main.dd8afc4c.js.map",
     "453.64512fd7.chunk.js.map": "/static/js/453.64512fd7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b91ff2f.css",
+    "static/css/main.18dde8c2.css",
     "static/js/main.dd8afc4c.js"
   ]
 }

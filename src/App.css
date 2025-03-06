@@ -6,7 +6,7 @@
     flex-direction: column;
     background: linear-gradient(#10AEEF, #0F0F0F);
     font-family: "Venus";
-    font-size: 35px;
+    
   }
 }
 
@@ -52,5 +52,5 @@
 
 @font-face{
   font-family: "Venus";
-  src: url("../src/GameBubble.ttf");
+  src: url("../src/Venus-BF651e78bbb893a.otf");
 }
