@@ -50,4 +50,7 @@
   }
 }
 
-
+@font-face{
+  font-family: "Venus";
+  src: url("../src/GameBubble.ttf");
+}
