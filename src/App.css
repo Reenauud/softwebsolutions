@@ -1,12 +1,27 @@
-
-@media (max-device-width: 500px) 
-{
-  .App{
+@media (max-device-width: 500px) {
+  .App {
     display: flex;
     flex-direction: column;
     background: linear-gradient(#10AEEF, #0F0F0F);
     font-family: "Venus";
-    
+    color: white;
+  }
+
+  h6 {
+    font-size: 17px;
+  }
+
+  h2 {
+    font-size: 20px;
+  }
+
+  h1 {
+    font-size: 24px;
+  }
+
+  h3 {
+    display: flex;
+    justify-content: flex-start;
   }
 }
 
@@ -45,12 +60,13 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
 }
 
-@font-face{
+@font-face {
   font-family: "Venus";
   src: url("../src/Venus-BF651e78bbb893a.otf");
 }

@@ -16,7 +16,7 @@ function OffresView() {
         long de votre projet, de la conception à la livraison et au-delà.
       </h6>
 
-      <h3>Nos Offres</h3>
+      <h1>Nos Offres</h1>
 
       <div
         onClick={() => {
@@ -24,7 +24,7 @@ function OffresView() {
         }}
       >
         {" "}
-        <h6>Création de Site Web</h6>
+        <h2>Création de Site Web</h2>
         <Cards
           img={web}
           alt={"ddd"}
@@ -40,7 +40,7 @@ function OffresView() {
         }}
       >
         {" "}
-        <h6>Création de Logiciels</h6>
+        <h2>Création de Logiciels</h2>
         <Cards
           img={softwaredev}
           alt={"ddd"}

@@ -24,7 +24,7 @@ function Acceuil() {
       </div>
 
       <div>
-        <h6>POURQUOI CHOISIR SOFTWEBDEV ?</h6>
+        <h1>Pourquoi choisir SoftWebDev ?</h1>
       </div>
 
       <Cards
@@ -37,10 +37,10 @@ function Acceuil() {
       ></Cards>
 
       <div>
-        <h6>NOS OFFRES</h6>
+        <h1>Nos Offres</h1>
       </div>
       <div>
-        <h6>Création de Site Web</h6>
+        <h2>Création de Site Web</h2>
       </div>
       <div className="containerOffreMain">
         <div
@@ -61,7 +61,7 @@ function Acceuil() {
         </div>
 
         <div>
-          <h6>Création de Logiciels</h6>
+          <h2>Création de Logiciels</h2>
         </div>
         <div
           onClick={() => {
@@ -82,7 +82,7 @@ function Acceuil() {
       </div>
 
       <div>
-        <h6>CONTACTEZ-NOUS</h6>
+        <h1>Contactez-nous</h1>
       </div>
 
       <Cards

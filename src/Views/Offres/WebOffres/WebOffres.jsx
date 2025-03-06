@@ -16,12 +16,12 @@ function WebOffres()
 
 
 
-    return (  <div>
+    return (  <div className="ContainerWebOffre">
         
 
         <h1>Création de Site Web</h1>
 
-        <h6>- Réunion Initiale et Analyse des Besoins</h6>
+        <h3>Réunion Initiale et Analyse des Besoins</h3>
         <Cards
             img={reunion}
             alt={"ddd"}
@@ -30,7 +30,7 @@ function WebOffres()
             width={"100%"}
             flex={"column"}
           ></Cards>
-           <h6>Conception du Projet</h6>
+           <h3>Conception du Projet</h3>
         <Cards
             img={conception}
             alt={"ddd"}
@@ -39,7 +39,7 @@ function WebOffres()
             width={"100%"}
             flex={"column"}
           ></Cards>
-           <h6>Design et Prototypage</h6>
+           <h3>Design et Prototypage</h3>
         <Cards
             img={prototype}
             alt={"ddd"}
@@ -48,7 +48,7 @@ function WebOffres()
             width={"100%"}
             flex={"column"}
           ></Cards>
-           <h6>Développement Front-end</h6>
+           <h3>Développement Front-end</h3>
         <Cards
             img={frontend}
             alt={"ddd"}
@@ -57,7 +57,7 @@ function WebOffres()
             width={"100%"}
             flex={"column"}
           ></Cards>
-           <h6>Développement Back-end </h6>
+           <h3>Développement Back-end </h3>
         <Cards
             img={backend}
             alt={"ddd"}
@@ -66,7 +66,7 @@ function WebOffres()
             width={"100%"}
             flex={"column"}
           ></Cards>
-           <h6>Intégration de la Base de Données </h6>
+           <h3>Intégration de la Base de Données </h3>
         <Cards
             img={bdd}
             alt={"ddd"}
@@ -75,7 +75,7 @@ function WebOffres()
             width={"100%"}
             flex={"column"}
           ></Cards>
-           <h6>Tests et Débogage</h6>
+           <h3>Tests et Débogage</h3>
         <Cards
             img={debug}
             alt={"ddd"}
@@ -84,7 +84,7 @@ function WebOffres()
             width={"100%"}
             flex={"column"}
           ></Cards>
-           <h6>Déploiement</h6>
+           <h3>Déploiement</h3>
         <Cards
             img={deploiement}
             alt={"ddd"}
